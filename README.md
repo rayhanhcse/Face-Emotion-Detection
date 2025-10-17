@@ -1,6 +1,14 @@
-# PyPower Project - Emotion Detection using AI
+# ℹ️ About App
 
-## Emotion Detection
+This is an AI-Powered Face Emotion Detector. Detect emotions such as Happy, Sad, Angry, Neutral, and Surprise using Deep Learning.
+
+📌 Tips:
+
+Use a clear photo
+Good lighting helps
+Try smiling 😉
+
+## Dataset
 
 - Kaggle Dataset :- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data.
 
@@ -14,6 +22,6 @@
 
 - Enjoy Deep Learning.
 
-## The detailed tutorial is available in this video. Please do refer for better understanding.
+## Go to Host link and check your emotion....
 
-- https://youtu.be/PulKlAZRoAY
+- https://emotion-rayhan.streamlit.app/
