@@ -1,5 +1,5 @@
 '''
-PyPower Projects
+Rayhan Hussain's Projects
 Emotion Detection Using AI
 '''
 
