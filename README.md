@@ -1,11 +1,14 @@
 # ℹ️ About App
 
-This is an AI-Powered Face Emotion Detector. Detect emotions such as Happy, Sad, Angry, Neutral, and Surprise using Deep Learning.
+This is an AI-Powered Face Emotion Detector. 
+Detect emotions such as Happy, Sad, Angry, Neutral, and Surprise using Deep Learning.
 
 📌 Tips:
 
 Use a clear photo
+
 Good lighting helps
+
 Try smiling 😉
 
 ## Dataset
