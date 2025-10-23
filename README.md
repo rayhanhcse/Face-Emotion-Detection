@@ -157,7 +157,7 @@ python detect.py
 
 ---
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 **Rayhan Hussain**
 📧 Email: [rayhanhcse@gmail.com](mailto:rayhanhcse@gmail.com)
@@ -167,10 +167,12 @@ python detect.py
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Animated Emoji"/>
+  <img src="https://media.giphy.com/media/l0HlPjez2i0gTSmFe/giphy.gif" width="100" alt="Deployment GIF"/>
 </p>
 
+
 ---
+
 
 
 
