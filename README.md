@@ -29,6 +29,7 @@
 ## 🚀 Overview
 **Face Emotion Detection Project** is a real-time emotion recognition system using **Convolutional Neural Networks (CNN)**.  
 It classifies facial expressions into multiple emotions like **😀 Happy, 😞 Sad, 😠 Angry, 😮 Surprise, 😐 Neutral**.
+Hosted link: https://emotion-rayhan.streamlit.app/
 
 ---
 
