@@ -33,10 +33,10 @@ It classifies facial expressions into multiple emotions like **😀 Happy, 😞 
 ---
 
 ## 🎯 Features
-- 🖼️ Detect emotions from static images or live webcam feed  
-- 🧠 CNN-based emotion classification  
-- 📊 Real-time visualization  
-- ⚡ Lightweight and fast for live applications  
+- 🖼️ Deep Learning (CNN) model trained on emotion datasets  
+- 🧠 Real-time detection using camera input 
+- 📊Implemented with Python, OpenCV, and TensorFlow/Keras  
+- ⚡ Deployed using Streamlit App for user-friendly interaction 
 
 ---
 
