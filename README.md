@@ -1,6 +1,6 @@
 
 
-```markdown
+
 <h1 align="center">
   <span style="background: linear-gradient(to right, #ff416c, #ff4b2b); -webkit-background-clip: text; color: transparent;">
     😃 Face Emotion Detection
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-Keras-orange?style=for-the-badge&logo=tensorflow" alt="TensorFlow Badge"/>
 </p>
 
----
 
 ## 🚀 Overview
 **Face Emotion Detection Project** is a real-time emotion recognition system using **Convolutional Neural Networks (CNN)**.  
@@ -170,9 +169,6 @@ python detect.py
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="Animated Emoji"/>
 </p>
-```
-
----
 
 
 
