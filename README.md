@@ -172,9 +172,4 @@ python detect.py
 
 
 
-* 🌈 **Gradient header**
-* 🏷️ **Badges for GitHub, Email, LinkedIn, Python, TensorFlow**
-* 😃 **Emojis for emotion classes & sections**
-* 🎬 **Animated emoji GIF**
-
 
