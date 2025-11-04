@@ -143,9 +143,9 @@ python detect.py
 
 | Metric              | Value |
 | ------------------- | ----- |
-| Accuracy            | 91.2% |
-| Loss                | 0.21  |
-| Validation Accuracy | 89.5% |
+| Accuracy            | 79.2% |
+| Loss                | 20.8% |
+| Validation Accuracy | 72.5% |
 
 ---
 
